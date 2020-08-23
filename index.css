@@ -1,0 +1,16 @@
+
+h1,h2,h3,h4,h5,h6         { font-family: Footlight MT Light; color: 
+                          #000000; text-align: left; font-weight: bold }
+h1 {font-size: 36pt}
+h2 {font-size: 24pt}
+h3 {font-size: 20pt}
+h4 {font-size: 18pt}
+h5 {font-size: 15pt}
+h6 {font-size: 11pt}
+
+table        { font-family: Footlight MT Light; font-size: 14pt; text-align: left; 
+               border-collapse: collapse}
+
+
+td           { font-family: Footlight MT Light; font-size: 14pt; text-align: left; 
+                }
